@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/ruamberg/esp/internal_communication/build/CMakeFiles/bootloader
+/Users/ruamberg/esp/internal_communication/build/CMakeFiles/bootloader.rule
+/Users/ruamberg/esp/internal_communication/build/CMakeFiles/bootloader-complete.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

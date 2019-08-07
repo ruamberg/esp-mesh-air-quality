@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/Users/ruamberg/esp/internal_communication/build/bootloader/CMakeFiles/mconf-idf
+/Users/ruamberg/esp/internal_communication/build/bootloader/CMakeFiles/mconf-idf.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader/CMakeFiles/mconf-idf-complete.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/Users/ruamberg/esp/internal_communication/build/bootloader/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule
